@@ -36,3 +36,5 @@ See [conan-package-binary-consume-example](https://github.com/shreyasbharath/con
 A big thanks to @memsharded and @drodri for their help.
 # Changes
 The build.py file was modified to support Conan 1.51.3.  Removal of the mypkg directory and handling export and packaging all in one command. My modifications are Linux specific.
+# Use
+Run python3 build.py in the root directory of this project
